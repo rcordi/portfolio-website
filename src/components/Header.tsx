@@ -8,7 +8,7 @@ export default function Header() {
     <header className="fixed top-0 w-full z-50 bg-transparent backdrop-blur-md px-6 py-4">
       <div className="max-w-6xl mx-auto flex items-center justify-between">
         {/* Logo */}
-        <a href="#hero" className="text-xl font-bold text-accent">Cordibytes</a>
+        <a href="#hero" className="text-xl font-bold text-accent">Portfolio</a>
 
         {/* Desktop Nav */}
         <div className="hidden md:flex items-center space-x-8">
