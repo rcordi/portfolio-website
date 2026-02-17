@@ -8,10 +8,10 @@ It showcases my projects, experience, and includes fun particle effects and a sc
 ## Features
 
 - Responsive layout with **Tailwind CSS**
-- Interactive **particles background**
-- Clean **Hero section** with intro + “Say Hi” button
-- **Projects section** with cards
-- **Scroll-to-top button** for smooth navigation
+- Interactive particles background
+- Clean Hero section with intro + “Say Hi” button
+- Projects section with cards
+- Scroll-to-top button for smooth navigation
 - Lightweight and fast thanks to **Vite**
 
 ---
@@ -30,8 +30,8 @@ It showcases my projects, experience, and includes fun particle effects and a sc
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/rachelcordi/cordibytes-portfolio.git
-cd cordibytes-portfolio
+git clone https://github.com/rachelcordi/portfolio-website.git
+cd portfolio-website
 ```
 
 ### 2. Install dependencies
