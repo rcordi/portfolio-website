@@ -1,4 +1,4 @@
-# Cordibytes Portfolio 
+# Portfolio 
 
 A personal portfolio website built with **React, TypeScript, Vite, and Tailwind CSS**.  
 It showcases my projects, experience, and includes fun particle effects and a scroll-to-top button.
