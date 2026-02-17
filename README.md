@@ -1,11 +1,11 @@
-# Cordibytes Portfolio 🚀
+# Cordibytes Portfolio 
 
 A personal portfolio website built with **React, TypeScript, Vite, and Tailwind CSS**.  
 It showcases my projects, experience, and includes fun particle effects and a scroll-to-top button.
 
 ---
 
-## 🌟 Features
+## Features
 
 - Responsive layout with **Tailwind CSS**
 - Interactive **particles background**
@@ -16,7 +16,7 @@ It showcases my projects, experience, and includes fun particle effects and a sc
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** React + TypeScript
 - **Styling:** Tailwind CSS
@@ -25,7 +25,7 @@ It showcases my projects, experience, and includes fun particle effects and a sc
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repo
 
